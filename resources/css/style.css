@@ -1,0 +1,36 @@
+body{
+    background-color: blueviolet;
+    color: antiquewhite;
+    
+}
+.intro{
+    background-image: url("../images/pexels-this-is-zun-1164339.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 500vw;
+    height: 50vh;
+    width: 50vw;
+    background-position: center;
+    text-align: center;
+    color: whitesmoke;
+    margin: auto;
+    border: 10px;
+}
+
+nav button{
+    height: auto;
+    background-color: cyan;
+    align-content: center;
+    
+}
+.box-2 h1{
+   color: antiquewhite;  
+} 
+    
+.box-2 li{
+    color: aliceblue;
+}
+
+.h6{
+    color: black;
+}
